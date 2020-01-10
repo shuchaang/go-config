@@ -1,0 +1,11 @@
+{
+  "sys_heracles_sdk_version": "v1_0_7",
+  "sys_heracles_settings_path": "/api/app/sys_heracles_settings",
+  "sys_heracles_apiServers_path": "/api/app/apiServers",
+  "sys_heracles_socketServers_path": "/api/app/socketServers",
+  "api_server_check_update": "/api/v2/checkUpdate",
+  "api_server_register": "/api/v2/register",
+  "api_server_download_file": "/api/v2/download",
+  "api_server_check_md5": "/api/v2/md5Check",
+  "heracles_enable_remote": "true"
+}
